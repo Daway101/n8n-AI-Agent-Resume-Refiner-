@@ -14,7 +14,6 @@ The workflow then analyzes both using OpenAI, generates personalized resume impr
 
 ![Resume Refiner Diagram](Github%20screeshots/ResumeRefiner.drawio.png)
 
-
 ---
 
 ## III. Building the Agent
