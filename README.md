@@ -12,7 +12,6 @@ The workflow then analyzes both using OpenAI, generates personalized resume impr
 
 ![n8n AI Workflow](Github%20screenshots/n8n%20AI%20workflow.png)
 
-![Resume Refiner Diagram](Github%20screeshots/ResumeRefiner.drawio.png)
 
 ---
 
