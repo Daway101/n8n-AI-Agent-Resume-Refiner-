@@ -10,7 +10,7 @@ The workflow then analyzes both using OpenAI, generates personalized resume impr
 
 ## II. AI Agent Flow Diagram
 
-![AI Agent Flow](Github screenshots)
+![AI Agent Flow](Github screenshots/n8n AI workflow.png)
 
 ---
 
